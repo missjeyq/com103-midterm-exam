@@ -1,3 +1,6 @@
+# Description
 This is a weekly expense tracker for students. You enter your name and budget, log up to 4 expenses, and the program prints a formatted report showing what you spent, what's left, and whether any purchase was unusually large.
+
+# How to run it
 To run this program, you will need Python 3 installed on your computer. Once that is ready, save the code in a file named midterm_solution.py. Open a terminal or command prompt, navigate to the folder where the file is saved, and type python midterm_solution.py then press Enter.
 Once the program starts, it will ask for your name and your weekly budget — just type your answer and press Enter for each one. After that, it will display the five expense categories and walk you through four expense slots one at a time. For each slot, you type a category number from 1 to 5, or type 0 if you want to skip that slot. If you choose a valid category, the program will then ask for a short description of the expense and the amount you spent. Once all four slots are done, the program automatically calculates your total spending and remaining balance, then prints your complete weekly expense report on the screen.
