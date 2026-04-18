@@ -1,5 +1,5 @@
 category_names    = ["Food & Drinks", "Transportation", "Mobile / Internet", "School Supplies", "Entertainment"]
-category_examples = ["Lunch, snacks, coffee", "Bus, jeepney, ride-share", "Load, data plan, WiFi top-up", "Notebook, pen, bond paper", "Games, movies, hangout"]
+category_examples = ["lunch, snacks, coffee", "Bus, jeepney, ride-share", "Load, data plan, WiFi top-up", "Notebook, pen, bond paper", "Games, movies, hangout"]
  
 student_name  = input("Student Name: ")
 weekly_budget = float(input("Weekly Budget: "))
