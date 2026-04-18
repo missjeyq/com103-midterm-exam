@@ -1,0 +1,1 @@
+This is a weekly expense tracker for students. You enter your name and budget, log up to 4 expenses, and the program prints a formatted report showing what you spent, what's left, and whether any purchase was unusually large.
